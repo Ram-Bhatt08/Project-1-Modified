@@ -1,0 +1,440 @@
+nav{
+    background-color: white;
+    color:black;
+    height: 100px;
+}
+header {
+   padding: 0%;
+   margin-right:20px;
+   margin-left: 20px;
+   display: flex;
+}
+.pay1 {
+    width:100px;
+    height:100px;
+}
+#hmid{
+    margin-top:40px;
+}
+#hright{
+    margin-top: 40px;
+    
+}
+.rad
+{
+    border: 2px black solid;
+    border-radius: 20px;
+    width: fit-content;
+}
+.rad:hover {
+    color: white;
+    background-color: #00baf2;
+}
+a {
+    margin: 30px;
+    padding: 15px;
+    color:black;
+    text-decoration:none;
+   font-weight: 600;
+   font-size: 17px;
+}
+p{
+    padding-left: 20px;
+    margin-left: 20px;
+}
+.con {
+    display: inline;
+    position: relative;
+}
+.hidden {
+    display: none;
+    position:absolute;
+    margin-left: 8px;
+    color:#00baf2;
+}
+
+.con:hover .hidden {
+    display: block;
+}
+.Bus{
+    display: inline; 
+    position: relative;
+}
+.hide {
+    display: none;
+    position:absolute;
+    margin-left: 250px;
+    color:#00baf2;
+}
+
+.Bus:hover .hide {
+    display: block;
+}
+.Com{
+    display: inline;
+    position: relative;
+}
+.hi {
+    display: none;
+    position:absolute;
+    margin-left: 712px;
+    color:#00baf2;
+}
+
+.Com:hover .hi {
+    display: block;
+}
+#section1{
+    background-color:#f6f6f6;
+    height: 50px;
+    padding-top: 18px;
+}
+#section2 {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#secaleft {
+    padding-top: 50px;
+    padding-left:15%;
+    width:60%;
+}
+#la
+{
+font-size: 35px;
+padding-top: 15px;
+}
+#lb {
+font-size: 25px;
+padding-top: 15px;
+padding-right: 25px;
+}
+.rightimg {
+    padding-top: 50px;
+    padding-left:30%;
+    padding-bottom: 50px;
+    width:50%;
+    height:80%;
+}
+.leftimg {
+    width:150px;
+    height: 100px;
+}
+h2 {
+    border: black 2px solid;
+    width: fit-content;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+h2:hover {
+    background-color:white;
+    color:blue;
+    font-size: 20px;
+   
+}
+#section3{
+background-color: #00baf2;
+color: white;
+padding: 25px;
+}
+b {
+    font-size: 30px;
+   margin: 30px;
+}
+#sectext {
+    display: flex;
+    background-color: #00baf2;
+    margin: 15px;
+}
+#one {
+    width:100px;
+    height: 150px;
+    margin: 28px;
+    padding: 20px;
+    background-color:#00baf2;
+    border-radius: 10px;
+}
+.ico
+{
+    width:50px;
+    height:50px;
+    padding-right: 20px;
+}
+#one:hover{
+    background-color: #0a5b74;
+}
+#section4
+{
+    background-color: darkblue;
+    color: white;
+    padding: 30px;
+}
+#sec4
+{
+    display: flex;
+    margin: 20px;
+}
+#two{
+    width:100px;
+    height: 150px;
+    margin: 28px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#two:hover {
+    background-color:rgb(21, 21, 85);
+}
+#t 
+{
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+#section5 {
+    background-color:#f5f7fa ;
+   padding: 100px;
+}
+#sec5 {
+    background-color: white;
+    display: flex;
+    border-radius: 25px;
+}
+#secleft {
+    width: 50%;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+#secright{
+    width:50%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.img4{
+    width:500px;
+    height:450px;
+    margin-top: 20px;
+    padding-top: 20px;
+  margin-bottom: 50px;
+}
+.img5{
+    width:500px;
+    height:450px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.wall {
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+figcaption {
+    padding-left: 30px;
+}
+#ca {
+    font-size: 40px;
+    padding: 30px;
+}
+#ci {
+    padding: 30px;
+    font-size:25px;
+}
+#sec5a{
+    background-color: white;
+    display:flex;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+h4 {
+    border: black 2px solid;
+    width: fit-content;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+h4:hover {
+    background-color: #00baf2;
+}
+#sec5b {
+    display: flex;
+    margin-top: 50px;
+    background-color:#f5f7fa;
+}
+#seca{
+    width: 50%;
+    background-color: white;
+    border-radius: 25px;
+}
+#secb {
+    width: 50%;
+    margin-left: 40px;
+    background-color: white;
+    border-radius: 25px;
+}
+#ra {
+    font-size: 40px;
+    padding: 50px;
+}
+#rb {
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.cre {
+    width:400px;
+    height:300px;
+}
+#section6
+{
+    background-color: white;
+ display: flex;
+}
+#sleft{
+width: 50%;
+padding-top: 50px;
+padding-left: 150px;
+}
+#sright{
+width: 50%;
+padding-left: 200px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+#bhu {
+    padding-top: 30px;
+}
+#write {
+    font-size: 45px;
+    padding-top: 20px;
+}
+#write1{
+    padding-top: 50px;
+    font-size: 35px;
+}
+#write2 {
+    font-size: 25px;
+    padding-top: 30px;
+    padding-right: 50px;
+    text-align: justify;
+}
+.pagal {
+    width: 400px;
+    height: 400px;
+}
+.bhumi
+{
+    width:120px;
+    height:50px;
+}
+#section7 {
+    background-image: url('ground.png');
+    display: flex;
+    padding-top: 50px;
+}
+.stock {
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#leftsec {
+    width: 50%;
+    padding: 30px;
+}
+#rightsec {
+    width:50%;
+    padding: 30px;
+}
+#ph2 {
+    font-size: 45px;
+    padding: 20px;
+}
+
+#ph3 {
+    padding: 20px;
+    font-size: 25px;
+}
+#section8 {
+
+}
+#radha {
+    font-size: 45px;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+#boss {
+    display: flex;
+    margin-bottom: 150px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+#chudel
+{
+    width: 25%;
+}
+#aurat {
+    width: 25%;
+}
+#biharan {
+    width: 25%;
+}
+#radha1 {
+    width: 25%;
+}
+h6{
+    font-size: 20px;
+}
+.for {
+    width: 250px;
+    height: 250px;
+}
+#wt {
+font-size: 30px;
+margin: 10px;
+}
+#wt1
+{
+    margin: 10px;
+    font-size: 20px;
+}
+#section9 {
+   background-color: #f5f7fa;
+   display: flex;
+}
+#sl {
+    width: 70%;
+    display: flex;
+}
+#sr {
+    width: 30%;
+    margin: 100px;
+}
+.load{
+   margin-top: 100px;
+}
+#co {
+    margin-top: 130px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.twist {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+#section10 {
+    background-color:#00baf2;
+    font-size: 25px;
+    color: white;
+}
+#section11 {
+    background-color:#002970 ;
+    font-size: 25px;
+    color: white;
+}
